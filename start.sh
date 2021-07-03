@@ -1,1 +1,1 @@
-FLASK_APP=app.py FLASK_ENV=production flask run
+FLASK_APP=app.py FLASK_ENV=development flask run
